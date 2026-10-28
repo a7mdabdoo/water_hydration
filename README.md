@@ -4,7 +4,7 @@ A Flutter application built with a dark theme to help users estimate their daily
 
 ---
 
-## 📱 Features
+##  Features
 
 - **Dark Theme UI**: Clean, modern dark aesthetic following the specified design palette (`#0A0E21`, `#1D1E33`, `#111328`, `#00E5FF`).
 - **Interactive Input Screen**:
@@ -20,7 +20,7 @@ A Flutter application built with a dark theme to help users estimate their daily
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Input Screen | Result Screen |
 | :---: | :---: |
@@ -28,7 +28,7 @@ A Flutter application built with a dark theme to help users estimate their daily
 
 ---
 
-## 📐 Calculation Formula
+##  Calculation Formula
 
 The application uses an educational formula to estimate daily water requirement:
 
@@ -38,7 +38,7 @@ $$\text{totalLitres} = \frac{\text{baseMl} + \text{activityMl}}{1000}$$
 
 ---
 
-## 🧩 Widgets & Architecture
+##  Widgets & Architecture
 
 - **Layout & Structure**: `MaterialApp`, `Scaffold`, `AppBar`, `Column`, `Row`, `Expanded`, `SingleChildScrollView`, `Padding`, `SizedBox`
 - **User Input & Interaction**: `Slider`, `InkWell`, `GestureDetector`, custom `GenderCard`, custom `CounterCard`, `BottomButton`
@@ -47,7 +47,7 @@ $$\text{totalLitres} = \frac{\text{baseMl} + \text{activityMl}}{1000}$$
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Ensure Flutter SDK is installed on your machine.
 2. Clone the repository:
